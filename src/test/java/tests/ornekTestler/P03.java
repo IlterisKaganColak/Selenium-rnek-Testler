@@ -1,4 +1,4 @@
-package tests.amazonSeleniumPractice;
+package tests.ornekTestler;
 
 import org.junit.Assert;
 import org.junit.Test;
